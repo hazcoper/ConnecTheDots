@@ -199,7 +199,7 @@ let lastClicked;        //used to make sure there are no problems when a player 
 let myDots;
 let initX = 100;
 let initY = 100;
-let quant = 4;
+let quant = 10;
 let spacing = 50;
 
 //definicoes de estado
