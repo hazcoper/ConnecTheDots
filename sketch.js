@@ -197,10 +197,10 @@ let lastClicked;        //used to make sure there are no problems when a player 
 
 //game properties
 let myDots;
-let initX = 100;
-let initY = 100;
+let initX = 10;
+let initY = 10;
 let quant = 7;
-let spacing = 50;
+let spacing = 30;
 
 //definicoes de estado
 let mainMenu = true;
